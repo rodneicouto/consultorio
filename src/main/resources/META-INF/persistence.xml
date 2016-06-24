@@ -12,7 +12,7 @@
         if you don't have a database already created
         append ;create=true to end of the jdbc url
       -->
-      <property name="javax.persistence.jdbc.url" value="jdbc:derby:/Users/rodneicouto/Dev/Workspace/Outros/renan/database/consultorio"/>
+      <property name="javax.persistence.jdbc.url" value="jdbc:derby:/Users/rodneicouto/Dev/Workspace/Outros/renan/consultorio/db/consultorio"/>
       <property name="javax.persistence.jdbc.user" value="root"/>
       <property name="javax.persistence.jdbc.password" value="root"/>   
       <property name="hibernate.hbm2ddl.auto" value="create"/>     
