@@ -30,6 +30,6 @@ public class MyResource {
     	
     	repository.Salvar(atendimento);
     	
-        return "Got it!";
+        return "Got it!2";
     }
 }
